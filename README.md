@@ -1,0 +1,1 @@
+Simple .NET 8 C# App with a Health Check Endpoint, Swagger, and Application Insights
